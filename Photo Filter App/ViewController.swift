@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         //Keep orginal unedited image on launch is user resets filters etc.
-        OrginalPic = imgView.image
+        OriginalPic = imgView.image
     }
     
 
